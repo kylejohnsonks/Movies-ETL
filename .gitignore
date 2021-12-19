@@ -35,8 +35,6 @@ API_practice.ipynb
 config.py
 
 Data/Movies_Dataset/
-Data/ratings.csv
-
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
