@@ -35,9 +35,7 @@ API_practice.ipynb
 config.py
 
 Data/Movies_Dataset/
-Data/movies_metadata.csv
 Data/ratings.csv
-Data/wikipedia-movies.json
 
 
 # PyInstaller
