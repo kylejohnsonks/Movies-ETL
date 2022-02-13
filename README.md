@@ -24,3 +24,9 @@ This file adds codes to clean various fields in the kaggle data before it is mer
 
 ### ETL_create_database.ipynb
 This file modifies the solution from the previous three file to load that data into a sql database rather than pandas dataframes. 
+
+#Tools used
+- python, pandas
+- Jupyter
+- sqlalchemy
+- RegEx
